@@ -130,5 +130,5 @@ print('Merci d\'avoir utiliser notre programme')
 il est à remqarqué qu'en dichiffrant nous ne retrouvons pas le mot entrer en claire malgrés
 le suivi stricte de l'algorithme donnée.
 
-veulliez me donnée la correction svp
+veuillez nous donner la correction svp
 """
